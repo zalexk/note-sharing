@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -oP '.{0,200}\\(alert|callout|blockquote|definition\\).{0,200}' \"C:/Users/alex/SiYuan/conf/appearance/themes/Asri/theme.js\")",
+      "Bash(python3:*)",
+      "Bash(node:*)"
+    ]
+  }
+}
